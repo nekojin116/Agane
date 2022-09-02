@@ -13,7 +13,7 @@ Agane is a simple Rythm game made in Unity 2021 with a use of PlayFab, inspired 
 - Provided demo scene
 - Fullscreen mode
 - Cross platform
-- Video background in levems
+- Video background in levels
 
 
 ## Acknowledgements
