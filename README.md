@@ -1,7 +1,7 @@
 
 # Agane Rythm Game
 
-Agane is a simple Rythm game made in Unity 2021 with a use of PlayFab, inspired by Mania , you can use the code for your game but with credits 
+Agane is a simple Rhythm game made in Unity 2021 with a use of PlayFab, inspired by Mania , you can use the code for your game but with credits 
 
 
 [![Engine](https://img.shields.io/badge/Engine-Unity-green)](https://unity.com)
